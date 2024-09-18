@@ -7,5 +7,5 @@ DataSet URL: https://www.kaggle.com/datasets/jirkaborovec/histology-cima-dataset
 This project consists of 3 files.
 1) Data Precossing -> Preprocess the image data for making it compatible to use with Model.
 2) Baseline Model  -> Acts as a starting point to building CNN model and provides idea of how a basic model would perform on this dataset
-3) CNN Model (To be Updated) -> Final CNN model, which is trained and tested for classification task.
+3) CNN Model -> Final CNN model, which is trained and tested for classification task, achieving a high accuracy of 89.5%.
 
