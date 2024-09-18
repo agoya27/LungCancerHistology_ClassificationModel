@@ -2,7 +2,7 @@ GOAL: CREATE A DEEP LEARNING MODEL FOR CLASSIFYING HISTOPATHOLOGICAL IMAGES OF L
 
 This project will help Oncologist in cancer diagnosis by providing a well-trained model to detect cancer using pictures of 2D histological microscopy tissue slices, stained with different stains, and landmarks denoting key points in each slice. 
 DataSource: Kaggle
-DataSet URL: https://www.kaggle.com/datasets/jirkaborovec/histology-cima-dataset
+DataSet URL: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
 This project consists of 3 files.
 1) Data Precossing -> Preprocess the image data for making it compatible to use with Model.
