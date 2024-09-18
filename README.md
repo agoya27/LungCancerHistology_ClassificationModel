@@ -10,4 +10,6 @@ This project consists of 3 files.
 3) CNN Model -> Final CNN model, which is trained and tested for classification task, achieving a high accuracy of 89.5%.
 4) HyperParameter-> Result of HyperParameter Tuning and finding ideal parameter for model.
 
-Best Accuracy Achieved: 90.1% (Learning Rate -> 0.0005, Batch Size -> 32, Number of Epochs -> 6, Activation Function -> Sigmoid, Optimizer -> Adam, Loss -> CrossEntropy, Number of Conv2D Layers -> 6, Train_loss -> 0.223, Test_loss -> 0.208)
+Best Test Accuracy Achieved: 90.1% (Learning Rate -> 0.0005, Batch Size -> 32, Number of Epochs -> 6, Activation Function -> Sigmoid, Optimizer -> Adam, Loss -> CrossEntropy, Number of Conv2D Layers -> 6, Train_loss -> 0.223, Test_loss -> 0.208)
+
+Best Test Loss: 0.0976 (Learning Rate -> 0.001, Batch Size -> 32, Number Of Epochs -> 6, Activation Function -> ReLU, Optimizer -> Adam, Loss -> CrossEntropy, Number of Conv2D Layers -> 6, Train_loss -> 0.0838, Test_Accuracy -> 89.53%)
