@@ -13,3 +13,11 @@ This project consists of 3 files.
 Best Test Accuracy Achieved: 90.1% (Learning Rate -> 0.0005, Batch Size -> 32, Number of Epochs -> 6, Activation Function -> Sigmoid, Optimizer -> Adam, Loss -> CrossEntropy, Number of Conv2D Layers -> 6, Train_loss -> 0.223, Test_loss -> 0.208)
 
 Best Test Loss: 0.0976 (Learning Rate -> 0.001, Batch Size -> 32, Number Of Epochs -> 6, Activation Function -> ReLU, Optimizer -> Adam, Loss -> CrossEntropy, Number of Conv2D Layers -> 6, Train_loss -> 0.0838, Test_Accuracy -> 89.53%)
+
+
+Intruction to Run the Project:
+1) Download the Dataset as a Zip file from the given Kaggle URL and save it in your Google Drive
+2) Open the Preprocessing File from this repository in your local colab/Jupyter notebook environment
+3) Link your Google docs to your notebook enrionment so that data file can be accessed.
+4) Import the required libraries and Unzip the file using the commands given in the preprocessing notebook
+5) Run the cells given in Preprocessing notebook in order and this will lead to embedded tensor of input images being stored in your google drive
