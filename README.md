@@ -18,7 +18,7 @@ Best Test Loss: 0.0976 (Learning Rate -> 0.001, Batch Size -> 32, Number Of Epoc
 Intructions to Run the Project:
 1) Download the Dataset as a Zip file from the given Kaggle URL and save it in your Google Drive
 2) Open the Preprocessing File from this repository in your local colab/Jupyter notebook environment (You can also opt to download the zip file to your local system and then upload it to the google colab directly.)
-3) Link your Google docs to your notebook enrionment so that data file can be accessed.
+3) Link your Google drive to your notebook enrionment so that data file can be accessed. (only if you are using google drive for storing your data).
 4) Import the required libraries and Unzip the file using the commands given in the preprocessing notebook (While using the unzip command, please make sure to pass the correct file path as argument)
 5) Run the cells given in Preprocessing notebook in order and this will lead to embedded tensor of input images being stored in your google drive
 6) Run the class given in CNN Notebook in order to create a model, train it and finally test the results.
